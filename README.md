@@ -10,4 +10,5 @@ screenshot of the landing page using desktop
 
 screenshot of the landing page using the phone
 
-![image](https://github.com/Niltiwari7/landing_page_1/assets/93751356/6ffe0677-65dc-4aef-a22a-bacb3184f872)
+![image](https://github.com/Niltiwari7/landing_page_1/assets/93751356/749efde8-0a5b-4cfa-8cfa-e0d0f8872e60)
+
